@@ -9,7 +9,7 @@ import {
 import { supabase } from "./services/supabaseClient";
 import LandingScreen from "./pages/LandingScreen";
 import StudentRegistration from "./pages/StudentSignUp";
-import StudentDashboard from "./pages/StudentDashboard";
+import StudentDashboard from "./pages/Studentdashboard";
 
 function AppRoutes({ session }) {
   return (
