@@ -7,7 +7,7 @@ import {
   useNavigate,
 } from "react-router-dom";
 import { supabase } from "./services/supabaseClient";
-import LandingScreen from "./pages/landingScreen";
+import LandingScreen from "./pages/LandingScreen";
 import StudentRegistration from "./pages/StudentSignUp";
 import StudentDashboard from "./pages/StudentDashboard";
 
